@@ -7,7 +7,7 @@ div {
   border-radius: 50%; 
   border-left-color: black; 
   border-right-color: black; 
-  border-bottom-color: transparent; 
+  border-bottom-color: black; 
 }
 
 #red {
