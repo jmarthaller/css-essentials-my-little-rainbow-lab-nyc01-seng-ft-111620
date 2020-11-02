@@ -6,7 +6,7 @@ div {
   min-height: 25em; 
   border-radius: 50%; 
   border-left-color: black; 
-  border-right-color: transparent; 
+  border-right-color: black; 
   border-bottom-color: transparent; 
 }
 
